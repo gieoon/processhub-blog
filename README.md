@@ -10,6 +10,8 @@ If you're here it likely means that you:
 Whichever it is, we want to know what you think, would you suggest ProcessHub to someone else?
 ### All feedback is welcome at __jun.a.kagaya@gmail.com__
 
+---
+
 ## How to Use:
 
 - Create Processes by installing the extension via _link coming soon_
