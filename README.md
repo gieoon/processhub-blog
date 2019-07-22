@@ -5,7 +5,7 @@ _Last updated:_ __21 July, 2019__
 If you're here it likely means that you:
 - Love our product and want to help make it better
 - Hate our product and want to help make it better
-- Clicked the wrong place. 
+- Need a new mouse. 
 
 Whichever it is, we want to know what you think, would you suggest ProcessHub to someone else?
 ### All feedback is welcome at __jun.a.kagaya@gmail.com__
