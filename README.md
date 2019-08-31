@@ -46,11 +46,12 @@ We've got a lot of features to implement, and your feedback will help us priorit
 ## Our Vision
 
 Automation is going to take over the world, it's just a matter of _when_. 
-Andrew Yang is preaching a Universal Basic Income, because jobs will be taken over by automation. This is exciting, but also daunting. What we know to be normal will change. 
-Tools like ProcessHub will emerge as part of the automation revolution to dramatically infuence our lives, and automate away much of the repetitive tasks that we experience everyday. 
-Our goal is to create a system intelligent enough to not only perform tasks, but also be able to make intelligent decisions in sensitive areas and pain points in the industry.
+Andrew Yang is preaching a Universal Basic Income, because a multitude of jobs will inevitably be taken over by automation. This is exciting, but also daunting. What we know to be normal will change. 
+Tools like ProcessHub will continue to emerge as part of the automation revolution and dramatically infuence peoples' lives. Much of the repetitive tasks that we experience everyday will be automated away, leaving time for people to be kind, compassionate, and creative with one another.
 
-> Let humans be creative, not data entry robots.
+Our goal is to create a system intelligent enough to not only perform routine tasks, but to also be able to make intelligent decisions and handle recurring pain points.
+
+Let humans be creative, not data entry robots.
 
 ---
 
