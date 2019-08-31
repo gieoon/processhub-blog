@@ -21,7 +21,7 @@ Here are some examples to inspire you:
 - Track prices from websites online and be notified if a price falls within a certain range
 - Receive data from online sources at scheduled intervals
 - Automation testing of your websites to ensure no new bugs have been introduced, and the quality is up to par.
-- Move data from A to B reliably and consistently.
+- Move a lot of data from __A__ to __B___.
 
 ## How to Use:
 
