@@ -14,18 +14,19 @@ We want to know what you think, how would you use ProcessHub?
 
 ## What is ProcessHub
 
-ProcessHub is a smart automation tool designed to assist you automate online actions. 
-Instead of having a have free reign.
+ProcessHub is an automation robot that reproduces online actions. 
+Instead of repeating an action multiple times, let ProcessHub do it for you.
 
-Here's some examples to help inspire you:
+Here are some examples to inspire you:
 - Track prices from websites online and be notified if a price falls within a certain range
 - Receive data from online sources at scheduled intervals
-- Automation testing of your websites to ensure no new bugs have bene introduced, and the quality is up to par.
+- Automation testing of your websites to ensure no new bugs have been introduced, and the quality is up to par.
+- Move data from A to B reliably and consistently.
 
 ## How to Use:
 
-1. Install our Chrome extension [Process Hub Creator Tool](https://chrome.google.com/webstore/detail/processhub-creator-tool/ipfoehnmpmmpljcaakgenkcddjbfapan)
-1. Press __Record__ and perform your actions manually.
+1. Install the Chrome extension [Process Hub Creator Tool](https://chrome.google.com/webstore/detail/processhub-creator-tool/ipfoehnmpmmpljcaakgenkcddjbfapan)
+1. Press __Record__ and perform your actions as you normally would.
 1. Set a frequency for how often you want the actions to give you data, or else set it to __Now__ if you only want to run this once.
 1. Press __Save__ when you're done.
 1. Once your process is saved, you can view it via the __Process__ tab in a Google Spreadsheet.
