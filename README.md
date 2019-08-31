@@ -1,5 +1,7 @@
 _Last Updated:_ __1 Sept, 2019__
 
+#### Let humans be creative, not data entry robots.
+
 ---
 
 If you're here it likely means that you:
@@ -50,5 +52,5 @@ Andrew Yang is preaching a Universal Basic Income, because jobs will be taken ov
 Tools like ProcessHub will emerge as part of the automation revolution to dramatically infuence our lives, and automate away much of the repetitive tasks that we experience everyday. 
 Our goal is to create a system intelligent enough to not only perform tasks, but also be able to make intelligent decisions in sensitive areas and pain points in the industry.
 
-Let humans be creative, not data entry robots.
+> Let humans be creative, not data entry robots.
 
