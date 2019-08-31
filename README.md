@@ -1,4 +1,4 @@
-_Last Updated:_ __6 August, 2019__
+_Last Updated:_ __1 Sept, 2019__
 
 ---
 
@@ -8,30 +8,46 @@ If you're here it likely means that you:
 - Need a new mouse. 
 
 We want to know what you think, how would you use ProcessHub?
-### Please direct all feedback to __jun.a.kagaya@gmail.com__
+### Please direct all questions to __jun.a.kagaya@gmail.com__
 
 ---
 
+## What is ProcessHub
+
+ProcessHub is a smart automation tool designed to assist you automate online actions. 
+Instead of having a have free reign.
+
+Here's some examples to help inspire you:
+- Track prices from websites online and be notified if a price falls within a certain range
+- Receive data from online sources at scheduled intervals
+- Automation testing of your websites to ensure no new bugs have bene introduced, and the quality is up to par.
+
 ## How to Use:
 
-1. Create Processes by installing the extension via _link coming soon_
-2. Once your process is saved, you can view it via the __Process__ tab in the extension (_screenshot coming soon_)
-3. When the process runs, it will be bundled and emailed to your Google account if you are signed in
+1. Install our Chrome extension [Process Hub Creator Tool](https://chrome.google.com/webstore/detail/processhub-creator-tool/ipfoehnmpmmpljcaakgenkcddjbfapan)
+1. Press __Record__ and perform your actions manually.
+1. Set a frequency for how often you want the actions to give you data, or else set it to __Now__ if you only want to run this once.
+1. Press __Save__ when you're done.
+1. Once your process is saved, you can view it via the __Process__ tab in a Google Spreadsheet.
+1. When the process runs, it will be bundled and emailed to your Google account if you are signed in
+
 
 ## Disclaimer
 
-We're in version __v0.0.1__, what does this mean? 
+We're currently in version __v0.3__, what does this mean? 
 It means you can expect regular _bugs_, and _issues_.
-It also means you're one of our early users and adopters, and will have a direct impact in helping us to build a better product.
+It also means you're one of our early users and adopters, and will have a direct impact in helping us build a better product.
 
 ## Roadmap
 
-We've got a lot of features to implement, your feedback will help us prioritize.
-- A website to replace the Chrome extension with a detailed view of all processes, as well as your own accounts
-- Graphs and analytics to view the data your processes have collected
-- Smarter features in the extension to be able to create processes on more complex websites
+We've got a lot of features to implement, and your feedback will help us prioritize what needs to be done.
 
 ## Our Vision
 
-Automation is going to take over the world, it's just a matter of _when_. This is exciting, but also daunting. What we know to be normal is going to change. We hope that ProcessHub will be able to assist people in front of their computers, automating much of the repetitive tasks that we experience everyday. Our goal is to create a system intelligent enough to make decisions in sensitive areas.
+Automation is going to take over the world, it's just a matter of _when_. 
+Andrew Yang is preaching a Universal Basic Income, because jobs will be taken over by automation. This is exciting, but also daunting. What we know to be normal will change. 
+Tools like ProcessHub will emerge as part of the automation revolution to dramatically infuence our lives, and automate away much of the repetitive tasks that we experience everyday. 
+Our goal is to create a system intelligent enough to not only perform tasks, but also be able to make intelligent decisions in sensitive areas and pain points in the industry.
+
+Let humans be creative, not data entry robots.
 
