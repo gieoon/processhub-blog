@@ -20,8 +20,8 @@ Instead of repeating an action multiple times, let ProcessHub do it for you.
 Here are some examples to inspire you:
 - Track prices from websites online and be notified if a price falls within a certain range
 - Receive data from online sources at scheduled intervals
-- Automation testing of your websites to ensure no new bugs have been introduced, and the quality is up to par.
-- Move a lot of data from __A__ to __B___.
+- Automation testing of your websites to ensure no new bugs have been introduced, and quality can be assured.
+- Move a lot of data from __A__ to __B__.
 
 ## How to Use:
 
