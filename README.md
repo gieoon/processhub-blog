@@ -22,16 +22,16 @@ Here are some examples to inspire you:
 - Receive data from online sources at scheduled intervals
 - Automation testing of your websites to ensure no new bugs have been introduced, and quality can be assured.
 - Move a lot of data from __A__ to __B__.
-- Move a little bit fo data from __A__ to __B__ many times.
+- Move data from __A__ to __B__ many times.
 
 ## How to Use:
 
 1. Install the Chrome extension [Process Hub Creator Tool](https://chrome.google.com/webstore/detail/processhub-creator-tool/ipfoehnmpmmpljcaakgenkcddjbfapan)
 1. Press __Record__ and perform your actions as you normally would.
-1. Set a frequency for how often you want the actions to give you data, or else set it to __Now__ if you only want to run this once.
+1. Set a frequency for how often you want the actions to give you data, or else set it to __Now__ if you want to run this only once.
 1. Press __Save__ when you're done.
 1. Once your process is saved, you can view it via the __Process__ tab in a Google Spreadsheet.
-1. When the process runs, it will be bundled and emailed to your Google account if you are signed in
+1. When the process runs, it will be bundled and emailed to your Google account if you are signed in, or just saved to a spreadsheet if you are not.
 
 
 ## Disclaimer
