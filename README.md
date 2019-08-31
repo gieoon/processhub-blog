@@ -1,5 +1,3 @@
-_Last Updated:_ __1 Sept, 2019__
-
 #### Let humans be creative, not data entry robots.
 
 ---
@@ -54,3 +52,6 @@ Our goal is to create a system intelligent enough to not only perform tasks, but
 
 > Let humans be creative, not data entry robots.
 
+---
+
+_Last Updated:_ __1 Sept, 2019__
